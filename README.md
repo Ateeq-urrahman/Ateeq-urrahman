@@ -1,16 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Ateeq-ur-%20rahman&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-I'm Ateeq-urrahman, Computer Science student and Frontend Developer 
+Hi I'm Ateeq-urrahman, Computer Science student and Frontend Developer 
 
 💡 *“Crafting logic and elegance in every line of code.”*
-
----
-
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
-
----
 
 ### 📬 Connect with Me  
 
@@ -24,12 +16,6 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
   <a href="https://www.instagram.com/alpha_4lph44/">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <!-- <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a> -->
 </p>
 
 <p align="center">
@@ -40,6 +26,19 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
     <img src="https://img.shields.io/github/followers/Ateeq-urrahman?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="right">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" style="width: 50%" /><picture>
+</div>
+
 
 ---
 
@@ -59,7 +58,7 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
   </a>
 </p>
 
----
+
 
 ### 📊 GitHub Statistics
 
@@ -68,13 +67,7 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
 <img src="https://github-readme-stats.vercel.app/api?username=Ateeq-urrahman&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 <img src="https://streak-stats.demolab.com?user=Ateeq-urrahman&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
----
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Ateeq-ur%20-rahman&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Ateeq-ur-%20rahman&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 I'm Ateeq-urrahman, Computer Science student and Frontend Developer 
 
@@ -46,7 +46,7 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,nodejs &theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,nodejs&theme=light" />
   </a>
 </p>
 

@@ -18,7 +18,7 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
   <a href="mailto:mdateequrrahman006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="(https://www.linkedin.com/in/ateequr-rahman-40350030b/)">
+  <a href="https://www.linkedin.com/in/ateequr-rahman-40350030b/">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://www.instagram.com/alpha_4lph44/">

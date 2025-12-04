@@ -18,13 +18,13 @@ I'm Ateeq-urrahman, Computer Science student and Frontend Developer
   <a href="mailto:mdateequrrahman006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https:linkedin.com/in/ateequr-rahman-40350030b">
+  <a href="(https://www.linkedin.com/in/ateequr-rahman-40350030b/)">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <!-- <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/alpha_4lph44/">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://www.facebook.com/">
+  <!-- <a href="https://www.facebook.com/">
     <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
   </a>
   <a href="https://discord.com/">
